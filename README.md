@@ -11,3 +11,10 @@ Jegliche missbräuchliche Verwendung ist untersagt und liegt in der alleinigen V
 
 Der Autor übernimmt keine Haftung für Schäden, die durch unsachgemäße oder unerlaubte Nutzung entstehen.
 
+C++
+C#
+Python
+
+
+
+
