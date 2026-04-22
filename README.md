@@ -1,3 +1,13 @@
-# tik-tok-bann-tool
+# tik-tok-bann-tools
+
 test
-git clone https://github.com/ademy6220-arch/tik-tok-bann-tool.git
+## Disclaimer
+
+Dieses Projekt dient ausschließlich zu Bildungs-, Forschungs- und Testzwecken in autorisierten Umgebungen.
+
+Die Nutzung ist nur mit ausdrücklicher Erlaubnis des jeweiligen System- oder Account-Besitzers gestattet.
+
+Jegliche missbräuchliche Verwendung ist untersagt und liegt in der alleinigen Verantwortung des Nutzers.
+
+Der Autor übernimmt keine Haftung für Schäden, die durch unsachgemäße oder unerlaubte Nutzung entstehen.
+
